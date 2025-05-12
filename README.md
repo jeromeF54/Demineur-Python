@@ -35,3 +35,6 @@ Ce dossier contient des documents liés au développement du projet, comme :
 ## 👨‍💻 Auteur
 
 Jerome Freis – [GitHub](https://github.com/jeromeF54)
+=======
+# Demineur-Python
+Projet Python Démineur - Interface graphique avec Pygame

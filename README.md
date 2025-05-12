@@ -3,6 +3,26 @@
 Projet personnel de démineur en Python avec interface graphique (Pygame).  
 Développé dans le cadre d’un apprentissage progressif des outils Python (VS Code, Git, virtualenv, etc.).
 
+## 🧪 Utilisation de l’environnement virtuel
+
+Avant d’installer les dépendances, créez et activez un environnement virtuel :
+
+```powershell
+# Création
+python -m venv venv
+
+# Activation (Windows)
+.\venv\Scripts\activate
+
+# Installation des dépendances
+pip install -r requirements.txt
+
+# Lancement du projet
+python main.py
+```
+
+⚠️ Pensez à activer votre environnement virtuel (`venv`) à chaque nouvelle session avant d’exécuter ou modifier le projet.
+
 ---
 
 ## 🚀 Fonctionnalités prévues
